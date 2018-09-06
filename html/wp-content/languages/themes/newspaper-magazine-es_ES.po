@@ -1,0 +1,637 @@
+# Translation of Themes - Newspaper Magazine in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Newspaper Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-04-09 18:52:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Newspaper Magazine\n"
+
+#. Description of the plugin/theme
+msgid "Newspaper Magazine Theme is a simple, beautifully designed responsive WordPress News & Magazine theme. Newspaper Magazine theme is especially for  Newspaper, Magazine and Blog.Minimalist yet Fully responsive, cross-browser compatible, SEO friendly, Newspaper Magazine Theme is news and magazine theme and is suitable for news site, blog site , magazine site . Great customer support via online chat, email, support forum. Demo: http://hummingbirdthemes.com/view?theme=Newspaper , Detail & Documentation: http://hummingbirdthemes.com/themes/newspaper-magazine-wordpress-theme/"
+msgstr "El tema Newspaper Magazine es un sencillo tema WordPress para noticias y revistas, bien diseñado y adaptable. El tema Newspaper Magazine es especial para periódicos, revistas y blogs. Minimalista pero totalmente adaptable, compatible con todos los navegadores, amigable para el SEO, el tema Newspaper Magazine es un tema para noticias y revistas que funciona bien para un sitio de noticias, un blog o una web de una revista. Gran soporte a los clientes mediante chat online, correo electrónico y foro de ayuda. Demo: http://hummingbirdthemes.com/view?theme=Newspaper , Detalles y documentación: http://hummingbirdthemes.com/themes/newspaper-magazine-wordpress-theme/"
+
+#. Theme Name of the plugin/theme
+msgid "Newspaper Magazine"
+msgstr "Newspaper Magazine"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:279
+msgid "Comment Page %s"
+msgstr "Página de comentarios %s"
+
+#. Translators: %s is the search query.
+#: inc/breadcrumbs.php:275
+msgid "Search results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/options.php:155
+msgid "Enable breadcrumb"
+msgstr "Activar migas de pan"
+
+#: inc/options.php:141
+msgid "Display featured images inside posts"
+msgstr "Mostrar imágenes destacadas en las entradas"
+
+#: functions.php:126
+msgid "Default Sidebar Widgets Here."
+msgstr "Aquí los widgets de la barra lateral por defecto."
+
+#: functions.php:124
+msgid "Sidebar Default"
+msgstr "Barra lateral por defecto"
+
+#: inc/hooks.php:86
+msgid "Add a menu"
+msgstr "Añade un menú"
+
+#: inc/customizer.php:40
+msgid "Buy Pro"
+msgstr "Compra la versión Pro"
+
+#: inc/options.php:5
+msgid "Theme Option"
+msgstr "Opciones del tema"
+
+#: inc/customizer.php:39
+msgid "Newspaper Magazine Pro"
+msgstr "Newspaper Magazine Pro"
+
+#. Template Name of the plugin/theme
+msgid "FrontPage"
+msgstr "Portada"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/content-pagination.php:15
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: template-parts/content-pagination.php:14
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:34
+#: template-parts/content.php:38
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no hemos encontrado lo que buscas. Quizás una búsqueda pueda ayudar."
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo sentimos, pero no hay nada que coincida con tus términos de búsqueda. Por favor, inténtalo de nuevo con otras palabras clave."
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Estás listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: used search keyword
+#: search.php:52
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para: %s"
+
+#: inc/widgets/sidebar-widgets.php:208
+msgid "Sidebar: Recent Post"
+msgstr "Barra lateral: Entradas recientes"
+
+#: inc/widgets/sidebar-widgets.php:206
+msgid "Recent Post Widget. Place it in \"Sidebar\" and only works in this widget area."
+msgstr "Widget de entradas recientes. Sitúalo en la \"Barra lateral\" y solo funcionará en este área de widgets."
+
+#: inc/widgets/sidebar-widgets.php:185
+msgid "Tumblr Link: "
+msgstr "Enlace a Tumblr:"
+
+#: inc/widgets/sidebar-widgets.php:181
+msgid "Vimeo Link: "
+msgstr "Enlace a Vimeo:"
+
+#: inc/widgets/sidebar-widgets.php:177
+msgid "Dribble Link: "
+msgstr "Enlace a Dribble:"
+
+#: inc/widgets/sidebar-widgets.php:173
+msgid "Pinterest Link: "
+msgstr "Enlace a Pinterest:"
+
+#: inc/widgets/sidebar-widgets.php:169
+msgid "Instagram Link: "
+msgstr "Enlace a Instagram:"
+
+#: inc/widgets/sidebar-widgets.php:165
+msgid "Youtube Link: "
+msgstr "Enlace a YouTube:"
+
+#: inc/widgets/sidebar-widgets.php:161
+msgid "Google Plus Link: "
+msgstr "Enlace a Google Plus:"
+
+#: inc/widgets/sidebar-widgets.php:157
+msgid "Twitter Link: "
+msgstr "Enlace a Twitter:"
+
+#: inc/widgets/sidebar-widgets.php:153
+msgid "Facebook Link: "
+msgstr "Enlace a Facebook:"
+
+#: inc/widgets/sidebar-widgets.php:149 inc/widgets/sidebar-widgets.php:342
+msgid "Title: "
+msgstr "Título:"
+
+#: inc/widgets/sidebar-widgets.php:43
+msgid "Sidebar: Social Widget"
+msgstr "Barra lateral: Widget social"
+
+#: inc/widgets/sidebar-widgets.php:41
+msgid "Social Widget. Place it in \"Sidebar\" and only works properly in this widget area."
+msgstr "Widget social. Sitúalo en la \"Barra lateral\" y solo funcionará correctamente en este área de widgets."
+
+#: inc/widgets/news-layout-two.php:32
+msgid "News Widget Two"
+msgstr "Widget de noticias dos"
+
+#: inc/widgets/news-layout-three.php:32
+msgid "News Widget Three"
+msgstr "Widget de noticias tres"
+
+#: inc/widgets/news-layout-three.php:29
+msgid "News Layout Widget Three"
+msgstr "Widget de diseño de noticias tres"
+
+#: inc/widgets/news-layout-one.php:32
+msgid "News Widget One"
+msgstr "Widget de noticias uno"
+
+#: inc/widgets/news-layout-four.php:32
+msgid "News Widget Four"
+msgstr "Widget de noticias cuatro"
+
+#: inc/widgets/news-layout-five.php:326
+msgid "Post No For Both News: "
+msgstr "Nº de entradas para ambas noticias:"
+
+#: inc/widgets/news-layout-five.php:273 inc/widgets/news-layout-five.php:301
+#: inc/widgets/news-layout-four.php:153 inc/widgets/news-layout-one.php:154
+#: inc/widgets/news-layout-two.php:154
+msgid "Use FontAwesome Icon. Example: fa-cog"
+msgstr "Usa el icono de FontAwesome. Ejemplo: fa-cog"
+
+#: inc/widgets/news-layout-five.php:31
+msgid "News Widget Five"
+msgstr "Widget de noticias cinco"
+
+#: inc/widgets/news-layout-five.php:28 inc/widgets/news-layout-four.php:29
+#: inc/widgets/news-layout-one.php:29 inc/widgets/news-layout-two.php:29
+msgid "Displays posts. Place it in \"Front Page Widget Area Top\" widget area."
+msgstr "Mostrar entradas. Sitúalo en el área de widgets \"Widget de área superior de portada\"."
+
+#: inc/widgets/main-highlights.php:400
+msgid "Post No: "
+msgstr "Nº de entradas:"
+
+#: inc/widgets/main-highlights.php:304
+msgid "Slider Highlight"
+msgstr "Carrusel destacado"
+
+#: inc/widgets/main-highlights.php:302
+msgid "Displays posts as slider. Place it in \"Highlight Wiget Area\" widget area. It only works in the widget area."
+msgstr "Muestra entradas como un carrusel. Sitúalo en el área de widgets \"Área de widget destacada\". Solo funciona en ese área."
+
+#: inc/widgets/main-highlights.php:270
+msgid "Right Highlight Bottom: "
+msgstr "Destacada al fondo derecha:"
+
+#: inc/widgets/main-highlights.php:254
+msgid "Right Highlight Top: "
+msgstr "Destacada arriba derecha:"
+
+#: inc/widgets/main-highlights.php:238
+msgid "Left Highlight: "
+msgstr "Destacado izquierda:"
+
+#: inc/widgets/main-highlights.php:46
+msgid "Main Highlight"
+msgstr "Destacado principal"
+
+#: inc/widgets/main-highlights.php:44
+msgid "Displays three distinct highlight posts. Place it in \"Highlight Widget Area\" widget area."
+msgstr "Muestra tres entradas destacadas distintas. Sitúalo en el área de widgets \"Área de widgets destacados\"."
+
+#: inc/widgets/front-page-bottom-widget.php:32
+msgid "News Widget Six: FrontPage Bottom"
+msgstr "Widget de noticias seis: Fondo de portada"
+
+#: inc/widgets/front-page-bottom-widget.php:29
+msgid "Displays posts. Place it in \"Front Page Widget Area Bottom\" widget area and only works in this widget area."
+msgstr "Muestra entradas. Sitúalo en el área de widgets \"Área de widgets de fondo de portada\" y solo funcionará en ese área de widgets."
+
+#: inc/widgets/footer-post-widget.php:113
+#: inc/widgets/front-page-bottom-widget.php:140
+#: inc/widgets/main-highlights.php:248 inc/widgets/main-highlights.php:264
+#: inc/widgets/main-highlights.php:280 inc/widgets/main-highlights.php:394
+#: inc/widgets/news-layout-five.php:291 inc/widgets/news-layout-five.php:319
+#: inc/widgets/news-layout-four.php:171 inc/widgets/news-layout-one.php:172
+#: inc/widgets/news-layout-three.php:149 inc/widgets/news-layout-two.php:172
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: inc/widgets/footer-post-widget.php:103 inc/widgets/main-highlights.php:384
+#: inc/widgets/news-layout-five.php:281 inc/widgets/news-layout-five.php:309
+msgid "Select Category: "
+msgstr "Elegir categoría:"
+
+#: inc/widgets/footer-post-widget.php:99
+msgid "Title"
+msgstr "Título"
+
+#: inc/widgets/footer-post-widget.php:40
+msgid "Footer: Post Widget"
+msgstr "Pie de página: Widget de entradas"
+
+#: inc/widgets/footer-post-widget.php:38
+msgid "Displays posts. Place it in \"Footer Widget Area\" and only works properly in this widget area."
+msgstr "Muestra entradas. Sitúalo en el \"Área de widgets de pie de página\" y solo funcionará correctamente en esa área de widgets."
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:72 template-parts/content-page.php:30
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:65
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> a %s</span>"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Etiquetas %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Publicado en %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+#: inc/widgets/main-highlights.php:85 inc/widgets/main-highlights.php:143
+#: inc/widgets/main-highlights.php:193 inc/widgets/main-highlights.php:343
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "por %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Publicado el %s"
+
+#: inc/options.php:282
+msgid "None"
+msgstr "Nada"
+
+#: inc/options.php:281
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/options.php:280
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/options.php:275
+msgid "Sidebar Position"
+msgstr "Posición de la barra lateral"
+
+#: inc/options.php:265
+msgid "Theme Sidebar"
+msgstr "Barras laterales del tema"
+
+#: inc/options.php:251
+msgid "Youtube"
+msgstr "Youtube"
+
+#: inc/options.php:238
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/options.php:225
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/options.php:212
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/options.php:198
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: inc/options.php:184
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/options.php:170
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/options.php:127
+msgid "Show Search Option On Header"
+msgstr "Mostrar opción de búsqueda en cabecera"
+
+#: inc/options.php:113
+msgid "Show Scroll To Top Button"
+msgstr "Mostrar botón de volver arriba"
+
+#: inc/options.php:101
+msgid "Other Settings Section."
+msgstr "Sección de otros ajustes."
+
+#: inc/options.php:100
+msgid "Other Settings"
+msgstr "Otros ajustes"
+
+#: inc/options.php:88
+msgid "Copyright text"
+msgstr "Texto de derechos de copia"
+
+#: inc/options.php:76
+msgid "Footer Settings Section."
+msgstr "Sección de ajustes del pie de página."
+
+#: inc/options.php:75
+msgid "Footer Settings"
+msgstr "Ajustes de pie de página"
+
+#: inc/options.php:58
+msgid "Choose Category"
+msgstr "Elegir categoría"
+
+#: inc/options.php:44
+msgid "Breaking News Title"
+msgstr "Título de las últimas noticias"
+
+#: inc/options.php:39
+msgid "Breaking News"
+msgstr "Últimas noticias"
+
+#: inc/options.php:30
+msgid "Show Breaking News"
+msgstr "Mostrar últimas noticias"
+
+#: inc/options.php:18
+msgid "Configure Breaking News type and Social icons."
+msgstr "Configura el tipo de últimas noticias y los iconos sociales."
+
+#: inc/options.php:17
+msgid "Top Header"
+msgstr "Cabecera superior"
+
+#: inc/options.php:6
+msgid " Newpaper Magazine Theme Option"
+msgstr "Opciones del tema Newspaper Magazine"
+
+#: inc/hooks.php:345
+msgid "You are here:"
+msgstr "Estás aquí:"
+
+#: inc/filters.php:60
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/filters.php:45
+msgid "Post A Comment"
+msgstr "Publica un comentario"
+
+#: inc/filters.php:44
+msgid "btn btn-default btn-md"
+msgstr "btn btn-default btn-md"
+
+#: inc/filters.php:42
+msgid "Comment"
+msgstr "Comentario"
+
+#: inc/filters.php:41
+msgid "Your email address will not be published. Required fields are marked*"
+msgstr "Tu dirección de correo electrónico no será visible. Los campos obligatorios están marcados con *"
+
+#: inc/filters.php:38
+msgid "Leave a comment."
+msgstr "Deja un comentario."
+
+#: inc/filters.php:37
+msgid "comment_news"
+msgstr "comment_news"
+
+#: inc/filters.php:24 inc/filters.php:25
+msgid "Website"
+msgstr "Web"
+
+#: inc/filters.php:20
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: inc/filters.php:19
+msgid "Email Address*"
+msgstr "Dirección de correo electrónico*"
+
+#: inc/filters.php:15
+msgid "Full Name"
+msgstr "Nombre completo"
+
+#: inc/filters.php:14
+msgid "Full Name*"
+msgstr "Nombre completo*"
+
+#: inc/class.php:40
+msgid "Select"
+msgstr "Elegir"
+
+#: inc/breadcrumbs.php:823
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs.php:795 inc/breadcrumbs.php:1224
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs.php:794 inc/breadcrumbs.php:850 inc/breadcrumbs.php:1220
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs.php:793 inc/breadcrumbs.php:822 inc/breadcrumbs.php:849
+#: inc/breadcrumbs.php:876 inc/breadcrumbs.php:1216
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs.php:777
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs.php:760
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs.php:743
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:283
+msgid "Week %s"
+msgstr "Semana %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:281
+msgid "Minute %s"
+msgstr "Minuto %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs.php:277
+msgid "Page %s"
+msgstr "Página %s"
+
+#: inc/breadcrumbs.php:273
+msgid "Archives"
+msgstr "Archivo"
+
+#: inc/breadcrumbs.php:272
+msgid "404 Not Found"
+msgstr "404 No encontrado"
+
+#: inc/breadcrumbs.php:271
+msgid "Home"
+msgstr "Inicio"
+
+#: inc/breadcrumbs.php:270
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/breadcrumbs.php:269
+msgid "Browse:"
+msgstr "Ir a:"
+
+#: functions.php:176
+msgid "Add Footer Widgets Here"
+msgstr "Añade aquí los widgets del pie de página"
+
+#: functions.php:174
+msgid "Footer Widget Area"
+msgstr "Área de widgets del pie de página"
+
+#: functions.php:166
+msgid "Add Advertisement Here."
+msgstr "Añade aquí un anuncio."
+
+#: functions.php:164
+msgid "Header Widget Area"
+msgstr "Área de widgets de cabecera"
+
+#: functions.php:154
+msgid "Front Page Widget Area Bottom"
+msgstr "Área de widget del fondo de portada"
+
+#: functions.php:146 functions.php:156
+msgid "Add Front Page Widgets Here."
+msgstr "Añade aquí widgets de portada."
+
+#: functions.php:144
+msgid "Front Page Widget Area Top"
+msgstr "Área de widgets de arriba de portada"
+
+#: functions.php:136
+msgid "Add \"Main Highlight\" and \"Slider Highlight\" widgets here."
+msgstr "Añade aquí los widgets de \"Destacado principal\" y \"Carrusel destacado\"."
+
+#: functions.php:134
+msgid "Highlight Widget Area"
+msgstr "Área de widget destacado"
+
+#: functions.php:117
+msgid "Add Sidebar Widgets Here."
+msgstr "Añade aquí widgets de barra lateral."
+
+#: functions.php:115
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:48
+msgid "Top"
+msgstr "Arriba"
+
+#: functions.php:47
+msgid "Primary"
+msgstr "Principal"
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:44 comments.php:65
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:43 comments.php:64
+msgid "Older Comments"
+msgstr "Comentarios más antiguos"
+
+#: comments.php:40 comments.php:61
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s pensamiento a &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensamientos a &ldquo;%2$s&rdquo;"
+
+#: 404.php:52
+msgid "Home Page"
+msgstr "Portada"
+
+#: 404.php:49
+msgid "You can go to"
+msgstr "Puedes ir a"
+
+#: 404.php:46
+msgid "Sorry, but the page you are looking for doesn&rsquo;t exist."
+msgstr "Lo siento, pero la página que estás buscando no existe."
+
+#: 404.php:42
+msgid "Ooops... Error 404"
+msgstr "Vaya… Error 404"
+
+#. Author URI of the plugin/theme
+msgid "http://hummingbirdthemes.com/"
+msgstr "http://hummingbirdthemes.com/"
+
+#. Author of the plugin/theme
+msgid "hummingbirdthemes"
+msgstr "hummingbirdthemes"
+
+#. Theme URI of the plugin/theme
+msgid "http://hummingbirdthemes.com/themes/newspaper-magazine-wordpress-theme/"
+msgstr "http://hummingbirdthemes.com/themes/newspaper-magazine-wordpress-theme/"

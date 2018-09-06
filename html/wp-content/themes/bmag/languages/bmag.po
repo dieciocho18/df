@@ -1,0 +1,725 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BMag\n"
+"POT-Creation-Date: 2018-08-13 10:48+0100\n"
+"PO-Revision-Date: 2018-08-13 10:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: author.php:18
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: author.php:36 template-parts/author-info-box.php:18
+#, php-format
+msgid "About %s"
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: content-none.php:12 index.php:48 search.php:30
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:16 index.php:52
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+
+#: content-page.php:17 content.php:113 image.php:98
+msgid "Pages:"
+msgstr ""
+
+#: content-page.php:20 content.php:146 functions.php:438 image.php:33
+#: template-parts/sticky.php:52
+msgid "Edit"
+msgstr ""
+
+#: content.php:112
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: footer.php:48
+msgid "by"
+msgstr ""
+
+#: footer.php:49
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:49
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:49
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:55
+msgid "Social Menu (Top bar)"
+msgstr ""
+
+#: functions.php:114
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:121
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr ""
+
+#: functions.php:273 inc/customizer.php:610
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:275
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr ""
+
+#: functions.php:283
+msgid "Site Header"
+msgstr ""
+
+#: functions.php:285
+msgid ""
+"Appears inside the site header, at right. You can use it to show Google "
+"AdSense ad."
+msgstr ""
+
+#: functions.php:293 header.php:99
+msgid "Mag Front Page: Below Header"
+msgstr ""
+
+#: functions.php:295
+msgid ""
+"Appears on (BMag) Magazine Front Page template only. Use the \"(BMag 5 Posts "
+"- Style 1\" widget in this widget area."
+msgstr ""
+
+#: functions.php:303 page-templates/template-mag-front-page.php:30
+msgid "Mag Front Page: Main Content"
+msgstr ""
+
+#: functions.php:305
+msgid ""
+"Appears on (BMag) Magazine Front Page template only. Use the (BMag) widgets "
+"to customize the content of your site front page."
+msgstr ""
+
+#: functions.php:313
+msgid "Below Post Title"
+msgstr ""
+
+#: functions.php:314
+msgid "Appears below posts title"
+msgstr ""
+
+#: functions.php:323
+msgid "Below Post Content"
+msgstr ""
+
+#: functions.php:324
+msgid "Appears at the end of posts content"
+msgstr ""
+
+#: functions.php:333
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:334 functions.php:344 functions.php:354 functions.php:364
+msgid "Appears in footer"
+msgstr ""
+
+#: functions.php:343
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:353
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:363
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:379
+msgid "&laquo; Previous"
+msgstr ""
+
+#: functions.php:380
+msgid "Next &raquo;"
+msgstr ""
+
+#: functions.php:406
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:406
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:421
+msgid "Post author"
+msgstr ""
+
+#. translators: 1: date, 2: time
+#: functions.php:427
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:433
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:445
+msgid "Reply"
+msgstr ""
+
+#: functions.php:561
+msgid "Read more"
+msgstr ""
+
+#: functions.php:622
+msgid ""
+"<strong>BMag Notice:</strong> In order for images to be displayed correctly "
+"in widgets, featured images must have a minimum size of 576x432 pixels."
+msgstr ""
+
+#: header.php:68 template-parts/top-bar.php:11
+msgid "MENU"
+msgstr ""
+
+#: header.php:78
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:101
+msgid ""
+"Please go to Appearance > Customize > Widgets and add to the \"Mag Front "
+"Page: Below Header\" widget area the recommended widget \"(BMag) 5 posts - "
+"Style 1\". You can also leave this area empty."
+msgstr ""
+
+#: image.php:22
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr ""
+
+#: inc/customizer.php:201
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer.php:217
+msgid "Site Logo/Icon/Title/Tagline"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Theme Primary Color"
+msgstr ""
+
+#: inc/customizer.php:243
+msgid "Blue"
+msgstr ""
+
+#: inc/customizer.php:244
+msgid "Green"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Orange"
+msgstr ""
+
+#: inc/customizer.php:246
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "Red"
+msgstr ""
+
+#: inc/customizer.php:260
+msgid "Apply to entry title in excerpts"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Apply to the left border of extracts"
+msgstr ""
+
+#: inc/customizer.php:284
+msgid "Apply to widget title"
+msgstr ""
+
+#: inc/customizer.php:286
+msgid "( Uncheck: Light gray )"
+msgstr ""
+
+#: inc/customizer.php:296
+msgid "Fonts"
+msgstr ""
+
+#: inc/customizer.php:308
+msgid "Select font"
+msgstr ""
+
+#: inc/customizer.php:332
+msgid ""
+"if you set Header Image, it will replace logo set in Site Logo option and "
+"Header widget area."
+msgstr ""
+
+#: inc/customizer.php:348
+msgid "Header, Content and Footer"
+msgstr ""
+
+#: inc/customizer.php:358
+msgid "Top bar"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "Display top bar"
+msgstr ""
+
+#: inc/customizer.php:380
+msgid "Top bar black (Uncheck: Theme color)"
+msgstr ""
+
+#: inc/customizer.php:392
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr ""
+
+#: inc/customizer.php:403
+msgid "Custom text (HTML allowed)"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Social icons color"
+msgstr ""
+
+#: inc/customizer.php:421
+msgctxt "Social icons color"
+msgid "White"
+msgstr ""
+
+#: inc/customizer.php:422
+msgid "Original color"
+msgstr ""
+
+#: inc/customizer.php:433
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer.php:443
+msgid "Black menu"
+msgstr ""
+
+#: inc/customizer.php:445
+msgid "(Uncheck: Light gray)"
+msgstr ""
+
+#: inc/customizer.php:455
+msgid "Center menu"
+msgstr ""
+
+#: inc/customizer.php:469
+msgid "Menu line"
+msgstr ""
+
+#: inc/customizer.php:474
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Top"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:488
+msgid "Posts and Pages"
+msgstr ""
+
+#: inc/customizer.php:497
+msgid ""
+"Show full content of the entries in the main page (If the main page is not "
+"set as a Magazine.)"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Show featured image in posts"
+msgstr ""
+
+#: inc/customizer.php:516
+msgid "Not show"
+msgstr ""
+
+#: inc/customizer.php:517
+msgid "Above post title"
+msgstr ""
+
+#: inc/customizer.php:518
+msgid "Below post title"
+msgstr ""
+
+#: inc/customizer.php:530
+msgid "Excerpt's thumbnail image rounded"
+msgstr ""
+
+#: inc/customizer.php:540
+msgid "Show metadata in excerpts (Author, date and number of comments)"
+msgstr ""
+
+#: inc/customizer.php:550
+msgid "Entry text justified"
+msgstr ""
+
+#: inc/customizer.php:560
+msgid "Display related posts at the end of entries (based on tags)"
+msgstr ""
+
+#: inc/customizer.php:565 template-parts/related-posts.php:28
+msgid "Related posts..."
+msgstr ""
+
+#: inc/customizer.php:569
+msgid "Related posts title"
+msgstr ""
+
+#: inc/customizer.php:575 inc/widget-5-posts-st1.php:149
+#: inc/widget-5-posts-st1.php:189 template-parts/sticky.php:11
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer.php:579
+msgid "Label for Sticky Posts"
+msgstr ""
+
+#: inc/customizer.php:590
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr ""
+
+#: inc/customizer.php:600
+msgid "Display 'Back to top' button"
+msgstr ""
+
+#: inc/customizer.php:623
+msgid "Select sidebar position"
+msgstr ""
+
+#: inc/customizer.php:628
+msgid "Left"
+msgstr ""
+
+#: inc/customizer.php:629
+msgid "Right"
+msgstr ""
+
+#: inc/customizer.php:640
+msgid "Footer texts"
+msgstr ""
+
+#: inc/customizer.php:648
+msgid "Footer left text"
+msgstr ""
+
+#: inc/customizer.php:658
+msgid "Footer center text"
+msgstr ""
+
+#: inc/customizer.php:668
+msgid "Footer right text"
+msgstr ""
+
+#: inc/customizer.php:679
+msgid "Hide credits"
+msgstr ""
+
+#: inc/customizer.php:688
+msgid "First Steps and Links"
+msgstr ""
+
+#: inc/customizer.php:704
+msgid "Links"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid ""
+"Please, if you are happy with the theme, say it on wordpress.org and give "
+"BMag a nice review. Thank you"
+msgstr ""
+
+#: inc/customizer.php:716
+msgid "Rate/Review"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Live Demo"
+msgstr ""
+
+#: inc/customizer.php:729
+msgid "Pro Version"
+msgstr ""
+
+#: inc/customizer.php:745
+msgid "First Steps"
+msgstr ""
+
+#: inc/customizer.php:756
+msgid "Setting up Magazine Home Page"
+msgstr ""
+
+#: inc/customizer.php:757
+msgid ""
+"1. Create a new page (with any title, it does not matter)<br/>\n"
+"2. In right column go to Page Attributes > Template and select (BMag) "
+"Magazine Front Page<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance > Customize > General settings > Static Front Page<br/>\n"
+"5. Select A static page<br/>\n"
+"6. In Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+
+#: inc/customizer.php:774
+msgid "Widgets do not display images correctly"
+msgstr ""
+
+#: inc/customizer.php:775
+msgid ""
+"<p><strong>In order for images to be displayed correctly in widgets, "
+"featured images must have a minimum size of 576x432 pixels</strong>.</"
+"p><p>If the image thumbnails are not displayed correctly (because BMag is "
+"not the first theme used) you will need to regenerate the thumbnails with a "
+"free plugin as"
+msgstr ""
+
+#: inc/widget-3-posts.php:22
+msgid ""
+"Displays the latest 3 post of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+
+#: inc/widget-3-posts.php:25
+msgid "3 Posts"
+msgstr ""
+
+#: inc/widget-3-posts.php:46 inc/widget-5-posts-st1.php:44
+#: inc/widget-5-posts-st2.php:46 inc/widget-cols-cats.php:60
+#: inc/widget-cols-cats.php:97
+msgid "Title"
+msgstr ""
+
+#: inc/widget-3-posts.php:53 inc/widget-5-posts-st1.php:51
+#: inc/widget-5-posts-st2.php:53
+msgid "Select category"
+msgstr ""
+
+#: inc/widget-3-posts.php:57 inc/widget-5-posts-st1.php:55
+#: inc/widget-5-posts-st2.php:57 inc/widget-cols-cats.php:71
+#: inc/widget-cols-cats.php:108
+msgid "All"
+msgstr ""
+
+#: inc/widget-3-posts.php:75 inc/widget-5-posts-st2.php:75
+msgid "Number of post to pass over"
+msgstr ""
+
+#: inc/widget-3-posts.php:82 inc/widget-5-posts-st1.php:73
+msgid "Frame"
+msgstr ""
+
+#: inc/widget-3-posts.php:84 inc/widget-5-posts-st1.php:75
+#: inc/widget-5-posts-st2.php:84
+msgid "Frameless"
+msgstr ""
+
+#: inc/widget-3-posts.php:85 inc/widget-5-posts-st1.php:76
+#: inc/widget-5-posts-st2.php:85
+msgid "Light frame"
+msgstr ""
+
+#: inc/widget-5-posts-st1.php:21
+msgid ""
+"Displays the latest 5 posts of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE, in Mag Front Page: Below Header widget area."
+msgstr ""
+
+#: inc/widget-5-posts-st1.php:24
+msgid "5 Posts - Style 1"
+msgstr ""
+
+#: inc/widget-5-posts-st1.php:42
+msgid ""
+"This widget must use it ONLY on the FRONT PAGE, in Below Header widget area."
+msgstr ""
+
+#: inc/widget-5-posts-st1.php:77 inc/widget-5-posts-st2.php:86
+msgid "Dark frame"
+msgstr ""
+
+#: inc/widget-5-posts-st2.php:22
+msgid ""
+"Displays the latest 5 posts of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+
+#: inc/widget-5-posts-st2.php:25
+msgid "5 Posts - Style 2"
+msgstr ""
+
+#: inc/widget-5-posts-st2.php:82
+msgid "Main item frame"
+msgstr ""
+
+#: inc/widget-cols-cats.php:22
+msgid ""
+"Displays the latest posts of two specific categories (each category in a "
+"column). This widget must use it ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+
+#: inc/widget-cols-cats.php:25
+msgid "Two Columns"
+msgstr ""
+
+#: inc/widget-cols-cats.php:58
+msgid "Left Column"
+msgstr ""
+
+#: inc/widget-cols-cats.php:67 inc/widget-cols-cats.php:104
+msgid "Category"
+msgstr ""
+
+#: inc/widget-cols-cats.php:95
+msgid "Right Column"
+msgstr ""
+
+#: inc/widget-cols-cats.php:129
+msgid "Common"
+msgstr ""
+
+#: inc/widget-cols-cats.php:132
+msgid "Number of posts to display"
+msgstr ""
+
+#: inc/widget-cols-cats.php:139
+msgid "Show excerpt"
+msgstr ""
+
+#: index.php:37
+msgid "No posts to display"
+msgstr ""
+
+#: index.php:41
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: page-templates/template-mag-front-page.php:32
+msgid ""
+"Please go to Appearance > Customize > Widgets and add at least one widget to "
+"the \"Mag Front Page: Main Content\" widget area. You must use the "
+"\"(BMag)\" widgets to set up the theme like the demo website."
+msgstr ""
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: template-parts/menu-movil.php:13 template-parts/menu-movil.php:15
+#: template-parts/searchform-toggle.php:2
+#: template-parts/searchform-toggle.php:4
+msgid "Search"
+msgstr ""
+
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+msgid "Search..."
+msgstr ""
+
+#: template-parts/top-bar.php:38
+msgid "Social Menu"
+msgstr ""

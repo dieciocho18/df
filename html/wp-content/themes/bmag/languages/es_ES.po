@@ -1,0 +1,1280 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BMag\n"
+"POT-Creation-Date: 2018-08-13 10:48+0100\n"
+"PO-Revision-Date: 2018-08-13 10:48+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:15
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr "Esto es algo embarazoso ¿no?"
+
+#: 404.php:19
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Parece que no encontramos lo que estás intentando localizar. Es posible que "
+"te ayude buscarlo."
+
+#: author.php:18
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Archivos del autor: %s"
+
+#: author.php:36 template-parts/author-info-box.php:18
+#, php-format
+msgid "About %s"
+msgstr "Sobre %s"
+
+#: comments.php:25
+#, php-format
+msgid "%1$s comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario en &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentarios en &ldquo;%2$s&rdquo;"
+
+#: comments.php:42
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:43
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios más antiguos"
+
+#: comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios más nuevos &rarr;"
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: content-none.php:12 index.php:48 search.php:30
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada."
+
+#: content-none.php:16 index.php:52
+msgid ""
+"Apologies, but no results were found. Perhaps searching will help find a "
+"related post."
+msgstr ""
+"Disculpa, pero no se han encontrado resultados. Quizás puedas buscar una "
+"entrada relacionada."
+
+#: content-page.php:17 content.php:113 image.php:98
+msgid "Pages:"
+msgstr "Páginas"
+
+#: content-page.php:20 content.php:146 functions.php:438 image.php:33
+#: template-parts/sticky.php:52
+msgid "Edit"
+msgstr "Editar"
+
+#: content.php:112
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Sigue leyendo <span class=\"meta-nav\">&rarr;</span>"
+
+#: footer.php:48
+msgid "by"
+msgstr "por"
+
+#: footer.php:49
+msgid "Powered by"
+msgstr "Creado con"
+
+#: footer.php:49
+msgid "http://wordpress.org/"
+msgstr "http://wordpress.org/"
+
+#: footer.php:49
+msgid "Semantic Personal Publishing Platform"
+msgstr "Plataforma semántica de publicación personal"
+
+#: functions.php:54
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:55
+msgid "Social Menu (Top bar)"
+msgstr "Menú social (Barra superior)"
+
+#: functions.php:114
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:121
+msgctxt "Open Sans font: add new subset (greek, cyrillic, vietnamese)"
+msgid "no-subset"
+msgstr "sin derivadas"
+
+#: functions.php:273 inc/customizer.php:610
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: functions.php:275
+msgid "Appears on posts and pages except Full-width Page Template"
+msgstr "Se muestra en entradas y páginas excepto en páginas de ancho completo"
+
+#: functions.php:283
+msgid "Site Header"
+msgstr "Cabecera del sitio"
+
+#: functions.php:285
+msgid ""
+"Appears inside the site header, at right. You can use it to show Google "
+"AdSense ad."
+msgstr ""
+"Aparece dentro de la cabecera del sitio, a la derecha. Puedes usarlo para "
+"mostrar publicidad de Google AdSense."
+
+#: functions.php:293 header.php:99
+msgid "Mag Front Page: Below Header"
+msgstr "Mag Front Page: Debajo de la cabecera"
+
+#: functions.php:295
+msgid ""
+"Appears on (BMag) Magazine Front Page template only. Use the \"(BMag 5 Posts "
+"- Style 1\" widget in this widget area."
+msgstr ""
+"Solo aparece en la plantilla (BMag) Magazine Front Page. Usa el widget "
+"\"(BMag) 5 Posts - Style 1\" en este área de widgets."
+
+#: functions.php:303 page-templates/template-mag-front-page.php:30
+msgid "Mag Front Page: Main Content"
+msgstr "Mag Front Page: Contenido Principal"
+
+#: functions.php:305
+msgid ""
+"Appears on (BMag) Magazine Front Page template only. Use the (BMag) widgets "
+"to customize the content of your site front page."
+msgstr ""
+"Aparece solo en la plantilla (BMag) Magazine Front Page. Utiliza los widgets "
+"(BMag) para personalizar el contenido de la página principal de tu sitio."
+
+#: functions.php:313
+msgid "Below Post Title"
+msgstr "Debajo del título de entrada"
+
+#: functions.php:314
+msgid "Appears below posts title"
+msgstr "Aparece debajo del título de las entradas."
+
+#: functions.php:323
+msgid "Below Post Content"
+msgstr "Debajo del contenido de entrada"
+
+#: functions.php:324
+msgid "Appears at the end of posts content"
+msgstr "Se muestra al final de los posts"
+
+#: functions.php:333
+msgid "Footer 1"
+msgstr "Pie 1"
+
+#: functions.php:334 functions.php:344 functions.php:354 functions.php:364
+msgid "Appears in footer"
+msgstr "Se muestra en el pie."
+
+#: functions.php:343
+msgid "Footer 2"
+msgstr "Pie 2"
+
+#: functions.php:353
+msgid "Footer 3"
+msgstr "Pie 3"
+
+#: functions.php:363
+msgid "Footer 4"
+msgstr "Pie 4"
+
+#: functions.php:379
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: functions.php:380
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: functions.php:406
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: functions.php:406
+msgid "(Edit)"
+msgstr "Editar"
+
+#: functions.php:421
+msgid "Post author"
+msgstr "Autor del post"
+
+#. translators: 1: date, 2: time
+#: functions.php:427
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s a las %2$s"
+
+#: functions.php:433
+msgid "Your comment is awaiting moderation."
+msgstr "Tu comentario está pendiente de moderación."
+
+#: functions.php:445
+msgid "Reply"
+msgstr "Contestar"
+
+#: functions.php:561
+msgid "Read more"
+msgstr "Leer más"
+
+#: functions.php:622
+msgid ""
+"<strong>BMag Notice:</strong> In order for images to be displayed correctly "
+"in widgets, featured images must have a minimum size of 576x432 pixels."
+msgstr ""
+"<strong>Aviso de BMag:</strong> Para que las imágenes sean mostradas "
+"correctamente en los widgets, las imágenes destacadas deben tener un tamaño "
+"mínimo de 576x432 pixels."
+
+#: header.php:68 template-parts/top-bar.php:11
+msgid "MENU"
+msgstr "MENÚ"
+
+#: header.php:78
+msgid "Skip to content"
+msgstr "Ir al contenido"
+
+#: header.php:101
+msgid ""
+"Please go to Appearance > Customize > Widgets and add to the \"Mag Front "
+"Page: Below Header\" widget area the recommended widget \"(BMag) 5 posts - "
+"Style 1\". You can also leave this area empty."
+msgstr ""
+"Por favor, ve a Apariencia > Personalizar > Widgets y añade al área de "
+"widgets \"Mag Front Page: Debajo de la cabecera\" el widget recomendado "
+"\"(BMag) 5 Entradas - Estilo 1\". También puedes dejar este área vacía."
+
+#: image.php:22
+#, php-format
+msgid ""
+"<span class=\"meta-prep meta-prep-entry-date\">Published </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; "
+"%5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</"
+"a>."
+msgstr ""
+"<span class=\"meta-prep meta-prep-entry-date\">Publicado </span> <span class="
+"\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></"
+"span> a las <a href=\"%3$s\" title=\"Enlace a la imagen completa\">%4$s "
+"&times; %5$s</a> en <a href=\"%6$s\" title=\"Volver a %7$s\" rel=\"gallery\">"
+"%8$s</a>."
+
+#: image.php:37
+msgid "&larr; Previous"
+msgstr "&larr; Anterior"
+
+#: image.php:38
+msgid "Next &rarr;"
+msgstr "Siguiente &rarr;"
+
+#: inc/customizer.php:201
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: inc/customizer.php:217
+msgid "Site Logo/Icon/Title/Tagline"
+msgstr "Logo/Icono/Título/Descripción del Sitio"
+
+#: inc/customizer.php:237
+msgid "Theme Primary Color"
+msgstr "Color principal del tema"
+
+#: inc/customizer.php:243
+msgid "Blue"
+msgstr "Azul"
+
+#: inc/customizer.php:244
+msgid "Green"
+msgstr "Verde"
+
+#: inc/customizer.php:245
+msgid "Orange"
+msgstr "Naranja"
+
+#: inc/customizer.php:246
+msgid "Pink"
+msgstr "Rosa"
+
+#: inc/customizer.php:247
+msgid "Red"
+msgstr "Rojo"
+
+#: inc/customizer.php:260
+msgid "Apply to entry title in excerpts"
+msgstr "Aplicar al título de entrada en extractos"
+
+#: inc/customizer.php:272
+msgid "Apply to the left border of extracts"
+msgstr "Aplicar al borde izquierdo de los extractos"
+
+#: inc/customizer.php:284
+msgid "Apply to widget title"
+msgstr "Aplicar a los títulos de widget"
+
+#: inc/customizer.php:286
+msgid "( Uncheck: Light gray )"
+msgstr "(Desmarcado: Gris claro)"
+
+#: inc/customizer.php:296
+msgid "Fonts"
+msgstr "Fuentes"
+
+#: inc/customizer.php:308
+msgid "Select font"
+msgstr "Elige una fuente"
+
+#: inc/customizer.php:332
+msgid ""
+"if you set Header Image, it will replace logo set in Site Logo option and "
+"Header widget area."
+msgstr ""
+"Si estableces una imagen de cabecera, esta remplazará al logo establecido en "
+"la opción Site Logo y al área de widget de la cabecera."
+
+#: inc/customizer.php:348
+msgid "Header, Content and Footer"
+msgstr "Cabecera, Contenido y Pie"
+
+#: inc/customizer.php:358
+msgid "Top bar"
+msgstr "Barra superior"
+
+#: inc/customizer.php:369
+msgid "Display top bar"
+msgstr "Mostrar la barra superior"
+
+#: inc/customizer.php:380
+msgid "Top bar black (Uncheck: Theme color)"
+msgstr "Barra superior negra (Desmarcado: color del tema)"
+
+#: inc/customizer.php:392
+msgid "Show the word menu next to the icon menu on mobile devices."
+msgstr ""
+"Mostrar la palabra menú junto al icono del menú en dispositivos móviles."
+
+#: inc/customizer.php:403
+msgid "Custom text (HTML allowed)"
+msgstr "Texto personalizado (HTML permitido)"
+
+#: inc/customizer.php:416
+msgid "Social icons color"
+msgstr "Color de los iconos sociales"
+
+#: inc/customizer.php:421
+msgctxt "Social icons color"
+msgid "White"
+msgstr "Blanco"
+
+#: inc/customizer.php:422
+msgid "Original color"
+msgstr "Color original"
+
+#: inc/customizer.php:433
+msgid "Main Menu"
+msgstr "Menú principal"
+
+#: inc/customizer.php:443
+msgid "Black menu"
+msgstr "Menú negro"
+
+#: inc/customizer.php:445
+msgid "(Uncheck: Light gray)"
+msgstr "(Desmarcado: Gris claro)"
+
+#: inc/customizer.php:455
+msgid "Center menu"
+msgstr "Centrar menú"
+
+#: inc/customizer.php:469
+msgid "Menu line"
+msgstr "Línea de menú"
+
+#: inc/customizer.php:474
+msgid "Bottom"
+msgstr "Inferior"
+
+#: inc/customizer.php:475
+msgid "Top"
+msgstr "Superior"
+
+#: inc/customizer.php:476
+msgid "None"
+msgstr "Ninguna"
+
+#: inc/customizer.php:488
+msgid "Posts and Pages"
+msgstr "Entradas y páginas"
+
+#: inc/customizer.php:497
+msgid ""
+"Show full content of the entries in the main page (If the main page is not "
+"set as a Magazine.)"
+msgstr ""
+"Mostrar contenido completo de las entradas en la página principal (si la "
+"página principal no está establecida como Magazine)"
+
+#: inc/customizer.php:511
+msgid "Show featured image in posts"
+msgstr "Mostrar imagen destacada en las entradas."
+
+#: inc/customizer.php:516
+msgid "Not show"
+msgstr "No mostrar"
+
+#: inc/customizer.php:517
+msgid "Above post title"
+msgstr "Sobre el título"
+
+#: inc/customizer.php:518
+msgid "Below post title"
+msgstr "Debajo del título"
+
+#: inc/customizer.php:530
+msgid "Excerpt's thumbnail image rounded"
+msgstr "Thumbnails redondeados en extractos"
+
+#: inc/customizer.php:540
+msgid "Show metadata in excerpts (Author, date and number of comments)"
+msgstr "Mostrar metadatos en extractos (autor, fecha y número de comentarios)"
+
+#: inc/customizer.php:550
+msgid "Entry text justified"
+msgstr "Texto de entradas justificado"
+
+#: inc/customizer.php:560
+msgid "Display related posts at the end of entries (based on tags)"
+msgstr ""
+"Mostrar entradas relacionadas al final de los posts (basadas en etiquetas)"
+
+#: inc/customizer.php:565 template-parts/related-posts.php:28
+msgid "Related posts..."
+msgstr "Entradas relacionadas..."
+
+#: inc/customizer.php:569
+msgid "Related posts title"
+msgstr "Título de entradas relacionadas"
+
+#: inc/customizer.php:575 inc/widget-5-posts-st1.php:149
+#: inc/widget-5-posts-st1.php:189 template-parts/sticky.php:11
+msgid "Featured"
+msgstr "Destacado"
+
+#: inc/customizer.php:579
+msgid "Label for Sticky Posts"
+msgstr "Etiqueta para entradas fijas"
+
+#: inc/customizer.php:590
+msgid "Show navigation at the end of posts (links to previous and next posts)"
+msgstr ""
+"Mostrar navegación al final de las entradas (enlaces al anterior y siguiente "
+"post)"
+
+#: inc/customizer.php:600
+msgid "Display 'Back to top' button"
+msgstr "Mostrar el botón 'Volver arriba'"
+
+#: inc/customizer.php:623
+msgid "Select sidebar position"
+msgstr "Posición de la barra lateral"
+
+#: inc/customizer.php:628
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:629
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:640
+msgid "Footer texts"
+msgstr "Textos del pie"
+
+#: inc/customizer.php:648
+msgid "Footer left text"
+msgstr "Texto del pie izquierdo"
+
+#: inc/customizer.php:658
+msgid "Footer center text"
+msgstr "Texto del pie central"
+
+#: inc/customizer.php:668
+msgid "Footer right text"
+msgstr "Texto del pie derecho"
+
+#: inc/customizer.php:679
+msgid "Hide credits"
+msgstr "Ocultar créditos"
+
+#: inc/customizer.php:688
+msgid "First Steps and Links"
+msgstr "Primeros pasos y enlaces"
+
+#: inc/customizer.php:704
+msgid "Links"
+msgstr "Enlaces"
+
+#: inc/customizer.php:716
+msgid ""
+"Please, if you are happy with the theme, say it on wordpress.org and give "
+"BMag a nice review. Thank you"
+msgstr ""
+"Por favor, si estás satisfecho con el tema, coméntalo en wordpress.org y "
+"escribe sobre BMag una buena reseña. Gracias."
+
+#: inc/customizer.php:716
+msgid "Rate/Review"
+msgstr "Puntuar/Reseñar"
+
+#: inc/customizer.php:728
+msgid "Live Demo"
+msgstr "Live Demo"
+
+#: inc/customizer.php:729
+msgid "Pro Version"
+msgstr "Versión Pro"
+
+#: inc/customizer.php:745
+msgid "First Steps"
+msgstr "Primeros pasos"
+
+#: inc/customizer.php:756
+msgid "Setting up Magazine Home Page"
+msgstr "Configuracion de la página principal (Magazine)"
+
+#: inc/customizer.php:757
+msgid ""
+"1. Create a new page (with any title, it does not matter)<br/>\n"
+"2. In right column go to Page Attributes > Template and select (BMag) "
+"Magazine Front Page<br/>\n"
+"3. Click on Publish<br/>\n"
+"4. Go to Appearance > Customize > General settings > Static Front Page<br/>\n"
+"5. Select A static page<br/>\n"
+"6. In Front Page, select the page that you created in the step 1<br/>\n"
+"7. Save changes"
+msgstr ""
+"1. Crea una página nueva (con cualquier título, no importa)<br/>\n"
+"2. En la columna derecha, ve a Atributos de página > Plantilla y selecciona "
+"(BMag) Magazine Front Page<br/>\n"
+"3. Haz click en Publicar<br/>\n"
+"4. Ve a Apariencia > Personalizar > Configuración general > Portada "
+"estática<br/>\n"
+"5. Selecciona Una página estática<br/>\n"
+"6. En Portada, selecciona la página que creaste en el paso 1<br/>\n"
+"7. Guarda los cambios"
+
+#: inc/customizer.php:774
+msgid "Widgets do not display images correctly"
+msgstr "Los widgets no muestran las imágenes correctamente"
+
+#: inc/customizer.php:775
+msgid ""
+"<p><strong>In order for images to be displayed correctly in widgets, "
+"featured images must have a minimum size of 576x432 pixels</strong>.</"
+"p><p>If the image thumbnails are not displayed correctly (because BMag is "
+"not the first theme used) you will need to regenerate the thumbnails with a "
+"free plugin as"
+msgstr ""
+"<p><strong>Para que las imágenes sean mostradas correctamente en los "
+"widgets, las imágenes destacadas deben tener un tamaño mínimo de 576x432 "
+"pixels</strong>.</p><p>Si las miniaturas de las imágenes no se muestran "
+"correctamente (porque BMag no es el primer tema que usas) necesitarás "
+"regenerar las miniaturas con un plugin gratuito como"
+
+#: inc/widget-3-posts.php:22
+msgid ""
+"Displays the latest 3 post of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+"Muestra las 3 últimas entradas de una categoría específica. Este widget SOLO "
+"debe ser usado en la PÁGINA PRINCIPAL DEL MAGAZINE."
+
+#: inc/widget-3-posts.php:25
+msgid "3 Posts"
+msgstr "3 Entradas"
+
+#: inc/widget-3-posts.php:46 inc/widget-5-posts-st1.php:44
+#: inc/widget-5-posts-st2.php:46 inc/widget-cols-cats.php:60
+#: inc/widget-cols-cats.php:97
+msgid "Title"
+msgstr "Título"
+
+#: inc/widget-3-posts.php:53 inc/widget-5-posts-st1.php:51
+#: inc/widget-5-posts-st2.php:53
+msgid "Select category"
+msgstr "Selecciona categoría"
+
+#: inc/widget-3-posts.php:57 inc/widget-5-posts-st1.php:55
+#: inc/widget-5-posts-st2.php:57 inc/widget-cols-cats.php:71
+#: inc/widget-cols-cats.php:108
+msgid "All"
+msgstr "Todas"
+
+#: inc/widget-3-posts.php:75 inc/widget-5-posts-st2.php:75
+msgid "Number of post to pass over"
+msgstr "Número de entradas a pasar por alto"
+
+#: inc/widget-3-posts.php:82 inc/widget-5-posts-st1.php:73
+msgid "Frame"
+msgstr "Marco"
+
+#: inc/widget-3-posts.php:84 inc/widget-5-posts-st1.php:75
+#: inc/widget-5-posts-st2.php:84
+msgid "Frameless"
+msgstr "Sin marco"
+
+#: inc/widget-3-posts.php:85 inc/widget-5-posts-st1.php:76
+#: inc/widget-5-posts-st2.php:85
+msgid "Light frame"
+msgstr "Marco claro"
+
+#: inc/widget-5-posts-st1.php:21
+msgid ""
+"Displays the latest 5 posts of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE, in Mag Front Page: Below Header widget area."
+msgstr ""
+"Muestra las 5 últimas entradas de una categoría concreta. Este widget SOLO "
+"debe utilizarse en la PÁGINA PRINCIPAL DEL MAGAZINE, en el área de widgets "
+"Mag Front Page: Debajo de la cabecera"
+
+#: inc/widget-5-posts-st1.php:24
+msgid "5 Posts - Style 1"
+msgstr "5 Entradas - Estilo 1"
+
+#: inc/widget-5-posts-st1.php:42
+msgid ""
+"This widget must use it ONLY on the FRONT PAGE, in Below Header widget area."
+msgstr ""
+"Este widget SOLO debe utilizarse en la PÁGINA PRINCIPAL, en el área de "
+"widgets Debajo de la cabecera."
+
+#: inc/widget-5-posts-st1.php:77 inc/widget-5-posts-st2.php:86
+msgid "Dark frame"
+msgstr "Marco oscuro"
+
+#: inc/widget-5-posts-st2.php:22
+msgid ""
+"Displays the latest 5 posts of specific category. This widget must use it "
+"ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+"Muestra las últimas 5 entradas de una categoría específica. Este widget SOLO "
+"debe utilizarse en la PÁGINA PRINCIPAL DEL MAGAZINE."
+
+#: inc/widget-5-posts-st2.php:25
+msgid "5 Posts - Style 2"
+msgstr "5 Entradas - Estilo 2"
+
+#: inc/widget-5-posts-st2.php:82
+msgid "Main item frame"
+msgstr "Marco del elemento principal"
+
+#: inc/widget-cols-cats.php:22
+msgid ""
+"Displays the latest posts of two specific categories (each category in a "
+"column). This widget must use it ONLY on the MAGAZINE FRONT PAGE."
+msgstr ""
+"Muestra las últimas entradas de dos categorías específica (cada una en una "
+"columna). Este widget SOLO debe utilizarse en la PÁGINA PRINCIPAL DEL "
+"MAGAZINE."
+
+#: inc/widget-cols-cats.php:25
+msgid "Two Columns"
+msgstr "Dos columnas"
+
+#: inc/widget-cols-cats.php:58
+msgid "Left Column"
+msgstr "Columna izquierda"
+
+#: inc/widget-cols-cats.php:67 inc/widget-cols-cats.php:104
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/widget-cols-cats.php:95
+msgid "Right Column"
+msgstr "Columna derecha"
+
+#: inc/widget-cols-cats.php:129
+msgid "Common"
+msgstr "Común"
+
+#: inc/widget-cols-cats.php:132
+msgid "Number of posts to display"
+msgstr "Número de entradas para mostrar"
+
+#: inc/widget-cols-cats.php:139
+msgid "Show excerpt"
+msgstr "Mostrar extractos"
+
+#: index.php:37
+msgid "No posts to display"
+msgstr "No hay posts para mostrar"
+
+#: index.php:41
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+"¿Preparado para publicar tu primer post? <a href=\"%s\">Comienza aquí</a>."
+
+#: page-templates/template-mag-front-page.php:32
+msgid ""
+"Please go to Appearance > Customize > Widgets and add at least one widget to "
+"the \"Mag Front Page: Main Content\" widget area. You must use the "
+"\"(BMag)\" widgets to set up the theme like the demo website."
+msgstr ""
+"Por favor, ve a Apariencia > Personalizar > Widgets y añade al menos un "
+"widget al área de widgets \"Mag Front Page: Main Content\". Debes utilizar "
+"los widgets \"(BMag)\" para configurar el tema como en la web de "
+"demostración."
+
+#: search.php:16
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Resultados de búsqueda para '%s'"
+
+#: search.php:34
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos pero no hay nada que se ajuste a tu criterio de búsqueda. Por "
+"favor, inténtalo de nuevo con otras palabras."
+
+#: searchform.php:13 searchform.php:14
+msgctxt "label"
+msgid "Search for:"
+msgstr "Buscar"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search..."
+msgstr "Buscar..."
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/menu-movil.php:13 template-parts/menu-movil.php:15
+#: template-parts/searchform-toggle.php:2
+#: template-parts/searchform-toggle.php:4
+msgid "Search"
+msgstr "Buscar"
+
+#: template-parts/menu-movil.php:14 template-parts/searchform-toggle.php:3
+msgid "Search..."
+msgstr "Buscar..."
+
+#: template-parts/top-bar.php:38
+msgid "Social Menu"
+msgstr "Menú social"
+
+#~ msgid "Daily Archives: %s"
+#~ msgstr "Archivo por días: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "Archivo por meses: %s"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "F Y"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "Archivo por años: %s"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y"
+
+#~ msgid "Archives"
+#~ msgstr "Archivos"
+
+#~ msgid "Category Archives: %s"
+#~ msgstr "Archivo de la Categoría: %s"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Archivos de la etiqueta: %s"
+
+#~ msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Ver todas las entradas de %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "White color (Uncheck: black)"
+#~ msgstr "Blanco (Desmarcado: Negro)"
+
+#~ msgid "Gray"
+#~ msgstr "Gris"
+
+#~ msgid "Post navigation"
+#~ msgstr "Navegación de post"
+
+#~ msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+#~ msgstr "<span class=\"meta-nav\">&larr;</span> Entradas más antiguas"
+
+#~ msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "Entradas más recientes <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Header Image"
+#~ msgstr "Imagen de cabecera"
+
+#~ msgid "Background Image"
+#~ msgstr "Imagen de fondo"
+
+#~ msgid "Static Front Page"
+#~ msgstr "Portada estática"
+
+#~ msgid "Colors"
+#~ msgstr "Colores"
+
+#~ msgid "Custom text"
+#~ msgstr "Texto personalizado"
+
+#~ msgid "Support Forum"
+#~ msgstr "Foro de soporte"
+
+#~ msgid "Home"
+#~ msgstr "Inicio"
+
+#~ msgid "Featured post"
+#~ msgstr "Entrada destacada"
+
+#~ msgid "Main Sidebar"
+#~ msgstr "Barra lateral principal"
+
+#, fuzzy
+#~ msgid "BMag: Header"
+#~ msgstr "Cabecera"
+
+#, fuzzy
+#~ msgid "BMag: Below post title"
+#~ msgstr "BMag: Bajo título de entradas"
+
+#, fuzzy
+#~ msgid "BMag: End of post content"
+#~ msgstr "BMag: Final de entrada"
+
+#, fuzzy
+#~ msgid "BMag: Footer 1"
+#~ msgstr "Pie 1"
+
+#, fuzzy
+#~ msgid "BMag: Footer 2"
+#~ msgstr "Pie 2"
+
+#, fuzzy
+#~ msgid "BMag: Footer 3"
+#~ msgstr "Pie 3"
+
+#, fuzzy
+#~ msgid "BMag: Footer 4"
+#~ msgstr "Pie 4"
+
+#~ msgid "Site Identity"
+#~ msgstr "Identidad del sitio"
+
+#~ msgid "Content"
+#~ msgstr "Contenido"
+
+#~ msgid "Posts"
+#~ msgstr "Entradas"
+
+#~ msgid "Footer text left"
+#~ msgstr "Texto izquierdo del pie"
+
+#~ msgid "Footer text center"
+#~ msgstr "Texto central del pie"
+
+#, fuzzy
+#~ msgid "Footer text right"
+#~ msgstr "Texto derecho del pie"
+
+#~ msgid "BMag Help"
+#~ msgstr "Ayuda BMag"
+
+#~ msgid "Thank you for choosing BMag"
+#~ msgstr "Gracias por elegir BMag"
+
+#~ msgid ""
+#~ "BMag is a simple and light WordPress theme with a clear and neat design. "
+#~ "Some its features are: header image or logo, custom theme color (blue, "
+#~ "green, orange or pink), right sidebar or left, excerpts or entire entries "
+#~ "on homepage, main menu on the left or centered, six different Google "
+#~ "Fonts, thumbnails rounded or squared, two widgets areas (beginning and "
+#~ "end of posts), related posts, customization panel, fully responsive, "
+#~ "custom header, custom background and more. Translation Ready (English and "
+#~ "spanish integrated). Required WordPress 4.1+."
+#~ msgstr ""
+#~ "BMag es un tema para WordPress simple y ligero con un diseño claro y "
+#~ "ordenado. Algunas de sus características son: Imagen de cabecera o logo, "
+#~ "color de tema personalizable (azul, verde, naranja o rosa), sidebar a la "
+#~ "derecha o izquierda, extractos o entradas completas en página principal, "
+#~ "menú a la izquierda o centrado, seis fuentes diferentes de Google, "
+#~ "miniaturas de imagen redondeadas o cuadradas, dos áreas de widgets (al "
+#~ "principio y final de las entradas), entradas relacionadas, panel de "
+#~ "personalización, completamente adaptable, cabecera personalizable, fondo "
+#~ "personalizable y más. Listo para traducir (Inglés y español integrados). "
+#~ "Requiere WordPress 4.1+."
+
+#~ msgid "BMag Quick Start Guide"
+#~ msgstr "Guía de inicio rápido de BMag "
+
+#~ msgid "Important: thumbnails"
+#~ msgstr "Importante: thumbnails"
+
+#~ msgid ""
+#~ "For images appear on the homepage, you must set the featured image of the "
+#~ "posts."
+#~ msgstr ""
+#~ "Para que aparezcan las imagenes en los extractos de las entradas debes "
+#~ "establecer la imagen destacada de los posts"
+
+#~ msgid "Customize BMag"
+#~ msgstr "Personalizar BMag"
+
+#~ msgid "To customize BMag go to <i>Appearance > Customize</i>"
+#~ msgstr "Para personalizar BMag go to <i>Apariencia > Personalizar</i>"
+
+#~ msgid ""
+#~ "To receive support from us or other users visit the <a href=\"https://"
+#~ "wordpress.org/support/theme/bmag\">BMag forum support on WordPress.org</a>"
+#~ msgstr ""
+#~ "Para recibir nuestro soporte o el de otros usuarios visita el <a href="
+#~ "\"https://wordpress.org/support/theme/bmag\">foro de soporte de BMag en "
+#~ "WordPress.org</a>"
+
+#~ msgid "Logo in the header"
+#~ msgstr "Logo en la cabecera"
+
+#~ msgid ""
+#~ "if you choose a logo, instead full image for the header, check the option "
+#~ "\"Header image is a logo\" (at the end of the section Header Image). "
+#~ "Then, to apply margins and center the logo activates the appropriate "
+#~ "boxes."
+#~ msgstr ""
+#~ "Si eliges un logo, en lugar de una imagen completa para la cabecera,  "
+#~ "marca la opción \"La imagen de cabecera es un logo\" (al final de la "
+#~ "sección Imagen de Cabecera). Después, para aplicar márgenes o centrar el "
+#~ "logo, activa las opciones correspondientes."
+
+#~ msgid "Review BMag"
+#~ msgstr "Reseñar y puntuar BMag"
+
+#~ msgid ""
+#~ "With <strong>BMag Pro</strong> you can set up your blog with everything "
+#~ "you need in minutes."
+#~ msgstr ""
+#~ "Con <strong>BMag Pro</strong> puedes configurar tu blog con todo lo "
+#~ "necesario en sólo unos minutos."
+
+#~ msgid "Buy"
+#~ msgstr "Comprar"
+
+#~ msgid "Compare with Lite Version"
+#~ msgstr "Comparar con versión Lite"
+
+#~ msgid "Forum support"
+#~ msgstr "Foro de soporte"
+
+#~ msgid "Unlimited theme colors"
+#~ msgstr "Colores de tema ilimitados"
+
+#~ msgid ""
+#~ "CSS editor integrated in the customizer. You can make changes without "
+#~ "modifying the style.css file."
+#~ msgstr ""
+#~ "Editor CSS integrado en el personalizador. Puedes hacer cambios sin "
+#~ "modificar el archivo style.css."
+
+#~ msgid "Light gray main menu or black"
+#~ msgstr "Menú principal gris claro o negro"
+
+#~ msgid "Sidebar left or right"
+#~ msgstr "Sidebar a la izquierda o derecha"
+
+#~ msgid "Show extract or whole post on homepage."
+#~ msgstr "Mostrar extractos o posts completos en página principal"
+
+#~ msgid "7 widgets areas to add AdSense code or anything else"
+#~ msgstr ""
+#~ "7 &aacute;reas de widgets para insertar c&oacute;digo AdSense o cualquier "
+#~ "otra cosa"
+
+#~ msgid "Easily add yor Login Logo"
+#~ msgstr "Añade fácilmente tu logo de inicio de sesión"
+
+#~ msgid "Available 15 differents Google fonts"
+#~ msgstr "Disponibles 15 fuentes diferentes de Google Fonts"
+
+#~ msgid ""
+#~ "6 Custom widgets (Facebook Page Plugin, Recent posts with square "
+#~ "thumbnails or rounded, Popular posts with square thumbnails or rounded, "
+#~ "Recent comments with square avatars or rounded, Email subscription, Meta "
+#~ "Widget with dashicons and ability to show/hide links)"
+#~ msgstr ""
+#~ "6 Widgets propios (Facebook Page Plugin, Entradas recientes con "
+#~ "thumbnails cuadrados o redondos, Entradas populares con thumbnails "
+#~ "cuadrados o redondos, Comentarios recientes con avatares cuadrados o "
+#~ "redondos, Suscripción por email, Meta Widget con dashicons y posibilidad "
+#~ "de mostrar/ocultar enlaces)"
+
+#~ msgid "Related posts with thumbnails"
+#~ msgstr "Entradas relacionadas con thumbnails"
+
+#~ msgid "Show/Hide post meta (author, date, comments number)"
+#~ msgstr ""
+#~ "Mostrar/Ocultar post meta (autor, fecha, n&uacute;mero de comentarios)"
+
+#~ msgid "Breadcrumb navigation"
+#~ msgstr "Navegaci&oacute;n por breadcrumb"
+
+#~ msgid "Custom pagination"
+#~ msgstr "Paginación propia"
+
+#~ msgid "Custom shortcodes (Buttons, Messages, Accordion and Tabs)"
+#~ msgstr ""
+#~ "Shortcodes propios (Botones, Mensajes, Acorde&oacuten y Pesta&ntilde;as)"
+
+#~ msgid "Social networks in user profile"
+#~ msgstr "Redes sociales en perfil de usuario"
+
+#~ msgid "Google Plus Authorship Integration"
+#~ msgstr "Integraci&oacute;n con Google Plus Authorship"
+
+#~ msgid "Easily apply BMag style to bbPress, just check the option."
+#~ msgstr ""
+#~ "Aplica f&aacute;cilmente el estilo de BMag a bbPress, solo marca la "
+#~ "opci&oacute;n"
+
+#~ msgid "Google Analytics ready, just paste the code"
+#~ msgstr "Preparado para Google Analytics, solo pega el c&oacute;digo"
+
+#~ msgid "AddThis ready, just paste the code"
+#~ msgstr "Preparado para AddThis, solo pega el c&oacute;digo"
+
+#~ msgid "Translation Ready (.po file integrated)"
+#~ msgstr "Translation Ready (archivo .po integrado)"
+
+#~ msgid "Integrated Spanish and English"
+#~ msgstr "Español e inglés integrados"
+
+#, fuzzy
+#~ msgid "Header Widget Area"
+#~ msgstr "Cabecera"
+
+#, fuzzy
+#~ msgid "Appears on header."
+#~ msgstr "Aparece debajo de la cabecera del sitio"
+
+#~ msgid "Copyright 2015"
+#~ msgstr "Copyright 2015"
+
+#~ msgid "Blue WP"
+#~ msgstr "Azul WP"
+
+#~ msgid "Golden"
+#~ msgstr "Dorado"
+
+#~ msgid "Purple"
+#~ msgstr "Púrpura"
+
+#~ msgid "Apply to top bar"
+#~ msgstr "Aplicar a la barra superior"
+
+#~ msgid "Apply to the header when there is no image"
+#~ msgstr "Aplicar a la cabecera cuando no haya imagen"
+
+#~ msgid "(Uncheck: White)"
+#~ msgstr "(Desmarcado: Blanco)"
+
+#~ msgid "Top bar and social icons"
+#~ msgstr "Barra superior e iconos sociales"
+
+#~ msgid "(Leave blank text boxes to not display icons)"
+#~ msgstr "(Deja en blanco las cajas de texto para no mostrar los iconos)"
+
+#~ msgid "Display blog title in top bar"
+#~ msgstr "Mostrar el título del blog en la barra superior"
+
+#~ msgid "Twitter URL"
+#~ msgstr "URL de Twitter"
+
+#~ msgid "Facebook URL"
+#~ msgstr "URL de Facebook"
+
+#~ msgid "Google Plus URL"
+#~ msgstr "URL de Google Plus"
+
+#~ msgid "LinkedIn URL"
+#~ msgstr "URL de LinkedIn"
+
+#~ msgid "YouTube URL"
+#~ msgstr "URL de YouTube"
+
+#~ msgid "Instagram URL"
+#~ msgstr "URL de Instagram"
+
+#~ msgid "Pinterest URL"
+#~ msgstr "URL de Pinterest"
+
+#~ msgid "RSS URL"
+#~ msgstr "URL del RSS"
+
+#~ msgid "Header image is a logo"
+#~ msgstr "La imagen de cabecera es un logo"
+
+#~ msgid "(You must have this option checked to apply the following)"
+#~ msgstr "(Debes tener esta opción activada para aplicar las siguientes)"
+
+#~ msgid "Apply logo margins"
+#~ msgstr "Aplicar márgenes al logo"
+
+#~ msgid "Center logo"
+#~ msgstr "Centrar logo"
+
+#~ msgid "With logo, white background"
+#~ msgstr "Con logo, fondo blanco"
+
+#~ msgid "Show line above the menu"
+#~ msgstr "Mostrar línea sobre el menú"
+
+#~ msgid ", "
+#~ msgstr ","
+
+#~ msgid "View all posts by %s"
+#~ msgstr "Ver todas las entradas de %s"
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s on %3$s<span class=\"by-"
+#~ "author\"> by %4$s</span>."
+#~ msgstr ""
+#~ "Esta entrada se publicó en %1$s y está etiquetada con %2$s el %3$s<span "
+#~ "class=\"by-author\"> por %4$s</span>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s on %3$s<span class=\"by-author\"> by %4$s</"
+#~ "span>."
+#~ msgstr ""
+#~ "Esta entrada fue publicada en %1$s el %3$s<span class=\"by-author\"> por "
+#~ "%4$s</span>."
+
+#~ msgid ""
+#~ "This entry was posted on %3$s<span class=\"by-author\"> by %4$s</span>."
+#~ msgstr ""
+#~ "Esta entrada fue publicada el %3$s<span class=\"by-author\"> por %4$s</"
+#~ "span>."
+
+#~ msgctxt "Previous post link"
+#~ msgid "&larr;"
+#~ msgstr "&larr;"
+
+#~ msgctxt "Next post link"
+#~ msgid "&rarr;"
+#~ msgstr "&rarr;"
+
+#~ msgid "Excerpt length (number of words)"
+#~ msgstr "Longitud del extracto (número de palabras)"
+
+#~ msgid "Back to top"
+#~ msgstr "Volver arriba"
+
+#~ msgid "Author: %s"
+#~ msgstr "Autor: %s"
+
+#~ msgid "Help"
+#~ msgstr "Ayuda"
+
+#, fuzzy
+#~ msgid "Show/Hide pages title"
+#~ msgstr "Mostrar/Ocultar t&iacute;tulos de p&aacute;gina"
+
+#, fuzzy
+#~ msgid "BMag Guide"
+#~ msgstr "ZeroGravity - Gu&iacute;a"
+
+#, fuzzy
+#~ msgid ""
+#~ "Go to \"Appearance >> Customize >> BMag Options\" and set the options in "
+#~ "the sections \"ZG: Color, Favicon and Sidebar\", \"ZG: Top bar and social "
+#~ "icons\", \"ZG: Logo in the header\", \"ZG: Posts and footer text\", \"ZG: "
+#~ "Fonts\"."
+#~ msgstr ""
+#~ "Ve a \"Apariencia >> Personalizar >> ZeroGravity Opciones\" y configura "
+#~ "las opciones en las secciones \"Color, Favicon and Sidebar\", \"Barra "
+#~ "superior e iconos sociales\", \"Logo en la cabecera\", \"ZG: Entradas y "
+#~ "textos del pie\", \"Fuentes\"."
+
+#, fuzzy
+#~ msgid "BMag Options"
+#~ msgstr "Ajustes"
+
+#, fuzzy
+#~ msgid ""
+#~ "if you choose a logo, instead full image for the header, go to the "
+#~ "section \"Logo in the header\" and check the option \"Header image is a "
+#~ "logo\". You can too center the logo."
+#~ msgstr ""
+#~ "Si eliges un logo, en lugar de una imagen completa para la cabecera, ve a "
+#~ "la secci&oacute; \"Logo en la cabecera\" y marca la opci&oacuten \"La "
+#~ "imagen de cabecera es un logo\". Tambi&eacute; puedes centrar el logo."
+
+#, fuzzy
+#~ msgid "Before to check \"Header image is a logo\"."
+#~ msgstr "Antes de marcar \"La imagen de cabecera es un logo\"."
+
+#, fuzzy
+#~ msgid "After to check \"Header image is a logo\"."
+#~ msgstr "Despu&eacute;s de marcar \"La imagen de cabecera es un logo\""
+
+#, fuzzy
+#~ msgid "Customizable maximum width"
+#~ msgstr "Anchura máxima del sitio personalizable"
+
+#, fuzzy
+#~ msgid "Show extract or whole post on homepage and archive pages."
+#~ msgstr ""
+#~ "Mostrar extractos o posts completos en página principal y páginas de "
+#~ "archivo"
+
+#, fuzzy
+#~ msgid "Easily add your Favicon"
+#~ msgstr "A&ntilde;ade f&aacute;cilmente tu favicon"
+
+#, fuzzy
+#~ msgid ""
+#~ "Custom widgets (Recent posts with square thumbnails or rounded, Popular "
+#~ "posts with square thumbnails or rounded, Recent comments with square "
+#~ "avatars or rounded, Email subscription)"
+#~ msgstr ""
+#~ "Widgets propios (Entradas recientes con thumbnails cuadrados o redondos, "
+#~ "Entradas populares con thumbnails cuadrados o redondos, Comentarios "
+#~ "recientes con avatares cuadrados o redondos, Suscripción por email)"
+
+#, fuzzy
+#~ msgid "Center logo (Just if \"Header image is a logo\" is checked)"
+#~ msgstr ""
+#~ "Centrar logo (Solo si \"La imagen de cabecera es un logo\" est&aacute; "
+#~ "activada"
+
+#, fuzzy
+#~ msgid "More info"
+#~ msgstr "Informaci&oacute;n de contacto"
